@@ -18,3 +18,6 @@ Stack utama yang digunakan adalah
 - Visualization
   - [metabase](https://www.metabase.com/)
   - [tooljet](https://www.tooljet.com/)
+
+## Installation
+
