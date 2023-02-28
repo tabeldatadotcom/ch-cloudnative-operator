@@ -7,7 +7,7 @@ spec:
     clusters:
       - name: "tabeldata"
         layout:
-          shardsCount: 2
+          shardsCount: 1
           replicasCount: 1
     settings:
       compression/case/method: zstd

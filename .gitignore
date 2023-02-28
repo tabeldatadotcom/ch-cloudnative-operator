@@ -85,3 +85,6 @@ tags
 
 ### Macos ###
 .DS_Store
+
+### logs
+*.log
