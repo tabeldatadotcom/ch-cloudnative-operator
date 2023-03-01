@@ -10,9 +10,9 @@ spec:
   configuration:
     zookeeper:
       nodes:
-        - host: zookeeper.zoons
+        - host: zookeepers
     clusters:
-      - name: "tabeldata"
+      - name: "example"
         layout:
           shardsCount: 2
           replicasCount: 2
